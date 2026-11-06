@@ -1,0 +1,16 @@
+__pycache__/
+documents/
+tests/
+*.pyc
+.env
+.venv/
+.pytest_cache/
+postgres_data/
+*.log
+pdf_text.txt
+inspect_out.txt
+extract.js
+inspect.js
+pdftext.js
+pdf_text.txt
+plan.md
